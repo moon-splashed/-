@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "GothmanPro";
+  font-style: normal;
+  font-weight: 400;
+
+  src: local("GothamPro"), url("../fonts/GothamPro.woff2") format("woff2"),
+    url("../fonts/GothamPro.woff") format("woff");
+}
+
+@font-face {
+  font-family: "GothmanPro";
+  font-style: normal;
+  font-weight: 500;
+
+  src: local("GothamPro-Medium"),
+    url("../fonts/GothamPro-Medium.woff2") format("woff2"),
+    url("../fonts/GothamPro-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SongerCondensed";
+  font-style: normal;
+  font-weight: 400;
+
+  src: local("Songercondensed"),
+    url("../fonts/Songercondensed.woff2") format("woff2"),
+    url("../fonts/Songercondensed.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SongerCondensed";
+  font-style: normal;
+  font-weight: 700;
+
+  src: local("Songercondensed"),
+    url("../fonts/Songercondensedbold.woff2") format("woff2"),
+    url("../fonts/Songercondensedbold.woff") format("woff");
+}
